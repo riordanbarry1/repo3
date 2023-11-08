@@ -17,6 +17,6 @@ class BaCloudAcademyGithubCdkRiordanStack(Stack):
         bucket = s3.Bucket(
             self,
             'bucket-object',
-            bucket_name='CHANGE-THIS-BUCKET-NAME-TO-A-UNIQUE-NAME',
+            bucket_name='riordanbucketagainagainagainagainagain',
             removal_policy=RemovalPolicy.DESTROY,
         )
