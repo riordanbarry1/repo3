@@ -7,7 +7,7 @@ on:
     types: [closed]
 
 env:
-  CDK_LOCAL_FOLDER: ./ba_cloud_academy_github_cdk_riordan
+  CDK_LOCAL_FOLDER: ./ba-cloud-academy-github-cdk-riordan
 
 jobs:
   deploy:
